@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amanthink aka avi,
 - 👀 I’m interested in CYBER SECURITY , DATA ANALYAIS AND AI,
 - 🌱 I’m currently learning DATA ANALYSIS,
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate for developing new skills,
 - 📫 for contacting message me on ig @avsinghchahar
 - 😄 Pronouns: he/his,
 - ⚡ Fun fact: nothing is temporary.
