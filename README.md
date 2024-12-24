@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate for developing new skills,
 - 📫 for contacting message me on ig @avsinghchahar
 - 😄 Pronouns: he/his,
-- ⚡ Fun fact: nothing is temporary.
+- ⚡ Fun fact: nothing is bad.
 
 <!---
 Amanthink/Amanthink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
