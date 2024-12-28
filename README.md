@@ -1,53 +1,53 @@
-# 👋 Hi there, I'm Aman Chahar! 👨‍💻
+# Hi, I'm Aman Chahar 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst**, **Cybersecurity Enthusiast**, and **Cloud Computing Aficionado**. I’m constantly learning, collaborating, and building innovative solutions to complex problems. 🚀
-
-## 🏆 Achievements
-
-- 🏅 **Advanced Milestone Prize** in **Google Arcade 2024**: Awarded for excellence in cloud-based game development using **Google Cloud** technologies.
-  ![Google Arcade Milestone](https://your-image-url.com/arcade-milestone.gif)
-- 🎓 **Google Cloud Certified**: Proficient in building and deploying scalable, secure cloud applications. [Check out my Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/8df1e558-c9c6-44cd-b860-00e748b03547).
-- 💡 **LeetCode Problem Solver**: I actively improve my skills on [LeetCode](https://leetcode.com/u/Avsinghchahar/).
-  
----
-
-## 🌐 My Technical Expertise
-
-- **Cloud Technologies**: Google Cloud, AWS, Azure  
-- **Cybersecurity**: Network Security, Cloud Security, Penetration Testing  
-- **Data Science & Analysis**: Python (pandas, NumPy), SQL, Data Visualization  
-- **Machine Learning**: TensorFlow, Keras, BigQuery ML  
-- **Programming Languages**: Python, JavaScript, C++  
-- **DevOps Tools**: Docker, Kubernetes, Terraform
+## About Me
+I am a passionate coder, focused on solving real-world problems with data and algorithms. With expertise in **data analysis**, **cybersecurity**, and **information gathering**, I am always ready to take on new challenges in the tech space. My background in coding has allowed me to develop multiple solutions and participate in hackathons.
 
 ---
 
-## 🚀 Projects
+## 🔗 Find Me Here:
+- [LinkedIn](https://www.linkedin.com/in/aman-chahar-9466bb325/) - Connect with me professionally.
+- [LeetCode](https://leetcode.com/u/Avsinghchahar/) - Explore my problem-solving journey.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/colambt97/) - Read my articles and coding solutions.
+- [GitHub](https://github.com/Amanthink) - My personal repository of projects and contributions.
 
-### 🔒 **Data Breach Detection System**  
-Built a tool to check whether an email or phone number has been exposed in any data breach.
+---
 
-### 🌍 **Cloud-Based Web App**  
-A cloud-native web app using **Google Cloud** services like **App Engine**, **Firebase**, and **BigQuery**.
+## 🛠 Skills & Technologies
+- **Languages**: Python, JavaScript, C++
+- **Technologies**: Node.js, Express, React, Flask, Django
+- **Tools**: Git, GitHub, Docker, Jenkins, AWS
+- **Security**: Cybersecurity, Data Privacy, Penetration Testing
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanthink&show_icons=true&hide_title=true&count_private=true&theme=dark&line_height=24&hide=prs)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanthink&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-### 📊 LeetCode Stats
+## 🚀 Projects
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Amanthink)](https://leetcode.com/u/Avsinghchahar/)
+Here are some of the recent repositories I have worked on:
+
+- **[Data Breach Detection Tool](https://github.com/Amanthink/Data-Breach-Detection)**: A solution to instantly check if an email or phone number has been exposed in any data breach.
+- **[Hackathon Dashboard](https://github.com/Amanthink/Hackathon-Dashboard)**: An interactive dashboard to track progress and manage tasks during hackathons.
+  
+Feel free to explore my other projects on [GitHub](https://github.com/Amanthink).
 
 ---
 
-### 📚 GeeksforGeeks Stats
-
-![GeeksforGeeks Stats](https://geeksforgeeks.org/static/img/gfg-profile-card/colambt97.png)
+## 🌱 Currently Learning
+- Exploring advanced **Data structures**and algorithms
+- Building a **cloud-based** cybersecurity monitoring tool
+- Improving **data analysis** skills for more effective decision-making
 
 ---
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate on projects or just chat about tech! 😊
+## 👨‍💻 Let's Connect
+Feel free to reach out for collaborations, project discussions, or just to connect!
+
+[LinkedIn](https://www.linkedin.com/in/aman-chahar-9466bb325/) |
+
+---
