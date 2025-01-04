@@ -1,53 +1,24 @@
-# Hi, I'm Aman Chahar 👋
+# 💫 About Me:
+<br><br>🧑‍💻 Data & Cybersecurity Expert: Passionate about problem-solving, innovation, and staying ahead in tech.<br><br>🚀 Hackathon Enthusiast: Always participating in hackathons and tackling exciting challenges.<br><br><br>🔒 Cybersecurity Innovator: Developing solutions to protect against data breaches and building secure websites.<br><br>📸 Creating a Platform: Working on a project where people can upload, tag, and share photos securely.<br>Fun fact: Always on the lookout for the next big thing in tech!<br><br><br><br><br><br><br>
 
-## About Me
-I am a passionate coder, focused on solving real-world problems with data and algorithms. With expertise in **data analysis**, **cybersecurity**, and **information gathering**, I am always ready to take on new challenges in the tech space. My background in coding has allowed me to develop multiple solutions and participate in hackathons.
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amanthink&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amanthink&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanthink&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔗 Find Me Here:
-- [LinkedIn](https://www.linkedin.com/in/aman-chahar-9466bb325/) - Connect with me professionally.
-- [LeetCode](https://leetcode.com/u/Avsinghchahar/) - Explore my problem-solving journey.
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/colambt97/) - Read my articles and coding solutions.
-- [GitHub](https://github.com/Amanthink) - My personal repository of projects and contributions.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amanthink&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠 Skills & Technologies
-- **Languages**: Python, JavaScript, C++
-- **Technologies**: Node.js, Express, React, Flask, Django
-- **Tools**: Git, GitHub, Docker, Jenkins, AWS
-- **Security**: Cybersecurity, Data Privacy, Penetration Testing
-
----
-
-## 📈 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanthink&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amanthink&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Amanthink&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects
-
-Here are some of the recent repositories I have worked on:
-
-- **[Data Breach Detection Tool](https://github.com/Amanthink/Data-Breach-Detection)**: A solution to instantly check if an email or phone number has been exposed in any data breach.
-- **[Hackathon Dashboard](https://github.com/Amanthink/Hackathon-Dashboard)**: An interactive dashboard to track progress and manage tasks during hackathons.
-  
-Feel free to explore my other projects on [GitHub](https://github.com/Amanthink).
-
----
-
-## 🌱 Currently Learning
-- Exploring advanced **Data structures**and algorithms
-- Building a **cloud-based** cybersecurity monitoring tool
-- Improving **data analysis** skills for more effective decision-making
-
----
-
-## 👨‍💻 Let's Connect
-Feel free to reach out for collaborations, project discussions, or just to connect!
-
-[LinkedIn](https://www.linkedin.com/in/aman-chahar-9466bb325/) |
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
