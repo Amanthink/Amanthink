@@ -41,6 +41,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Amanthink&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
+### 🧱 3D GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanthink&theme=react-dark&area=true&hide_border=true" />
+</p>
+### 📈 GitHub Stats + Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanthink&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanthink&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+
+---
+
+---
+
+### 🌍 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Amanthink" alt="GitHub chart" />
+</p>
+
+
 ---
 
 ### 🌐 Let's Connect
